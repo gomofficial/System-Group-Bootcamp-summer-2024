@@ -1,0 +1,8 @@
+EmployeeId : 1Name : AndrewAdamsEmail : andrew@chinookcorp.comThis Guy Has no Managers!!!
+EmployeeId : 2Name : NancyEdwardsEmail : nancy@chinookcorp.comManagerId : 1Manager Name : AndrewAdamsManager Email : andrew@chinookcorp.com
+EmployeeId : 3Name : JanePeacockEmail : jane@chinookcorp.comManagerId : 2Manager Name : NancyEdwardsManager Email : nancy@chinookcorp.com
+EmployeeId : 4Name : MargaretParkEmail : margaret@chinookcorp.comManagerId : 2Manager Name : NancyEdwardsManager Email : nancy@chinookcorp.com
+EmployeeId : 5Name : SteveJohnsonEmail : steve@chinookcorp.comManagerId : 2Manager Name : NancyEdwardsManager Email : nancy@chinookcorp.com
+EmployeeId : 6Name : MichaelMitchellEmail : michael@chinookcorp.comManagerId : 1Manager Name : AndrewAdamsManager Email : andrew@chinookcorp.com
+EmployeeId : 7Name : RobertKingEmail : robert@chinookcorp.comManagerId : 6Manager Name : MichaelMitchellManager Email : michael@chinookcorp.com
+EmployeeId : 8Name : LauraCallahanEmail : laura@chinookcorp.comManagerId : 6Manager Name : MichaelMitchellManager Email : michael@chinookcorp.com

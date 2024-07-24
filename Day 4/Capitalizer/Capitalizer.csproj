@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="ITextPlugin">
+        <HintPath>..\ITextPlugin\bin\Debug\net8.0\ITextPlugin.dll</HintPath>
+      </Reference>
+      <Reference Include="Plugin.Common">
+        <HintPath>..\Plugin.Common\bin\Debug\net8.0\Plugin.Common.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,285 @@
+Top 100 Genres for Germany : 
+   Rock
+   Metal
+   Latin
+   Alternative & Punk
+   Blues
+   Soundtrack
+   Jazz
+   TV Shows
+   Heavy Metal
+   Science Fiction
+   Easy Listening
+   Alternative
+   Drama
+   Pop
+
+Top 100 Genres for Norway : 
+   Rock
+   Classical
+   Latin
+   Alternative
+   Drama
+   Electronica/Dance
+   Alternative & Punk
+   World
+
+Top 100 Genres for Belgium : 
+   Rock
+   Alternative & Punk
+   R&B/Soul
+   Metal
+
+Top 100 Genres for Canada : 
+   Rock
+   Metal
+   Latin
+   Alternative & Punk
+   Jazz
+   World
+   Bossa Nova
+   Reggae
+   Classical
+   Hip Hop/Rap
+   R&B/Soul
+   Electronica/Dance
+   Blues
+   Drama
+   Rock And Roll
+   TV Shows
+
+Top 100 Genres for USA : 
+   Rock
+   Latin
+   Metal
+   Alternative & Punk
+   Jazz
+   TV Shows
+   Blues
+   R&B/Soul
+   Comedy
+   Bossa Nova
+   Pop
+   Hip Hop/Rap
+   Classical
+   Reggae
+   Sci Fi & Fantasy
+   Heavy Metal
+   Soundtrack
+   Rock And Roll
+   Drama
+   Alternative
+   Easy Listening
+   Science Fiction
+
+Top 100 Genres for France : 
+   Rock
+   Alternative & Punk
+   Latin
+   Metal
+   Jazz
+   Classical
+   Drama
+   Soundtrack
+   Alternative
+   Sci Fi & Fantasy
+   Hip Hop/Rap
+   Electronica/Dance
+   Pop
+   Blues
+   TV Shows
+   Bossa Nova
+   Reggae
+   Rock And Roll
+
+Top 100 Genres for Ireland : 
+   Rock
+   TV Shows
+   Latin
+   Alternative & Punk
+   Metal
+   Jazz
+   Drama
+   Blues
+
+Top 100 Genres for United Kingdom : 
+   Rock
+   Latin
+   Metal
+   Alternative & Punk
+   Jazz
+   Reggae
+   Hip Hop/Rap
+   R&B/Soul
+   Pop
+   World
+
+Top 100 Genres for Australia : 
+   Rock
+   Metal
+   Heavy Metal
+   Reggae
+   Latin
+   Blues
+
+Top 100 Genres for Chile : 
+   Rock
+   Latin
+   Drama
+   Easy Listening
+   Metal
+   TV Shows
+   Science Fiction
+   Blues
+   Alternative & Punk
+   Classical
+   Sci Fi & Fantasy
+   Soundtrack
+
+Top 100 Genres for India : 
+   Rock
+   Alternative & Punk
+   Jazz
+   Latin
+   Metal
+   R&B/Soul
+   Blues
+   Classical
+   Sci Fi & Fantasy
+   TV Shows
+
+Top 100 Genres for Brazil : 
+   Rock
+   Latin
+   Metal
+   Alternative & Punk
+   Reggae
+   Classical
+   Soundtrack
+   R&B/Soul
+   Pop
+   Blues
+   Sci Fi & Fantasy
+   Hip Hop/Rap
+   World
+
+Top 100 Genres for Portugal : 
+   Rock
+   Latin
+   Metal
+   Alternative & Punk
+   Pop
+   World
+   R&B/Soul
+   Heavy Metal
+   Jazz
+   Sci Fi & Fantasy
+   TV Shows
+   Electronica/Dance
+   Blues
+
+Top 100 Genres for Netherlands : 
+   Rock
+   Alternative & Punk
+   Blues
+   Sci Fi & Fantasy
+   Pop
+   Latin
+   Metal
+
+Top 100 Genres for Spain : 
+   Rock
+   Latin
+   Alternative & Punk
+   Metal
+   Reggae
+   Jazz
+   Hip Hop/Rap
+
+Top 100 Genres for Sweden : 
+   Latin
+   Rock
+   Metal
+   Alternative & Punk
+   TV Shows
+   World
+   Jazz
+
+Top 100 Genres for Czech Republic : 
+   Rock
+   Latin
+   Alternative & Punk
+   TV Shows
+   Drama
+   Metal
+   Pop
+   Jazz
+   Electronica/Dance
+   R&B/Soul
+   Science Fiction
+   Blues
+
+Top 100 Genres for Finland : 
+   Rock
+   Latin
+   Sci Fi & Fantasy
+   Alternative & Punk
+   Metal
+   Jazz
+   Reggae
+
+Top 100 Genres for Denmark : 
+   Rock
+   Metal
+   Latin
+   Alternative & Punk
+   Pop
+
+Top 100 Genres for Italy : 
+   Rock
+   Alternative & Punk
+   Blues
+   Classical
+   Latin
+   Metal
+
+Top 100 Genres for Poland : 
+   Rock
+   Latin
+   Alternative & Punk
+   Blues
+   Jazz
+
+Top 100 Genres for Austria : 
+   Rock
+   Metal
+   TV Shows
+   R&B/Soul
+   Classical
+   Latin
+   Jazz
+   Drama
+   Pop
+
+Top 100 Genres for Hungary : 
+   Rock
+   R&B/Soul
+   Metal
+   TV Shows
+   Latin
+   Alternative & Punk
+   Drama
+   Blues
+   Comedy
+   Sci Fi & Fantasy
+   Electronica/Dance
+
+Top 100 Genres for Argentina : 
+   Alternative & Punk
+   Rock
+   Latin
+   Metal
+   Easy Listening
+   Jazz
+   Soundtrack
+

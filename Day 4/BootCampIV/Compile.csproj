@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Plugin.Common\**" />
+      <Compile Remove="Capitalizer\**" />
+      <Compile Remove="Plugin.Host\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Plugin.Common\**" />
+      <EmbeddedResource Remove="Capitalizer\**" />
+      <EmbeddedResource Remove="Plugin.Host\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Plugin.Common\**" />
+      <None Remove="Capitalizer\**" />
+      <None Remove="Plugin.Host\**" />
+    </ItemGroup>
+
+</Project>
